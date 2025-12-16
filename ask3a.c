@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+//edit 
 
 typedef struct node{
     char am[10];

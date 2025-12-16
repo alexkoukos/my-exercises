@@ -1,4 +1,10 @@
-*~
-*.o
-*.out
-*.swp
+# Ignore Windows executable files
+*.exe
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled binary folders (from your screenshot)
+project/game
+project/labyrinth
+project/g++
